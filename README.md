@@ -68,28 +68,6 @@ $ focus
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisbrn&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbrn&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&langs_count=6" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisbrn&theme=tokyonight&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisbrn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
-
----
-
 ## 🐍 Contributions
 
 <picture>
